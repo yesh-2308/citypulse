@@ -1,0 +1,17 @@
+record_no,station_well_id,state_ut,district,block,village,latitude,longitude,observation_date,dtwl,unit,measurement_title_in_source,source_pdf,pdf_page,printed_page_no
+1,NULL,Tamil Nadu,Chennai,Chennai,Kodambakkam,13.04170,80.20830,10-01-2026,1.77,mbgl,DEPTH TO WATER LEVEL (in mbgl) of unconfindent data Pre-Monsoon January - 2026,January_2026.pdf,359,NULL
+2,NULL,Tamil Nadu,Chennai,Chennai,Mylapore,13.02500,80.25830,10-01-2026,2,mbgl,DEPTH TO WATER LEVEL (in mbgl) of unconfindent data Pre-Monsoon January - 2026,January_2026.pdf,359,NULL
+3,NULL,Tamil Nadu,Chennai,Chennai,Mylapore,13.01920,80.26780,10-01-2026,1.42,mbgl,DEPTH TO WATER LEVEL (in mbgl) of unconfindent data Pre-Monsoon January - 2026,January_2026.pdf,359,NULL
+4,NULL,Tamil Nadu,Chennai,Chennai,Perambur,13.10000,80.25000,10-01-2026,1.06,mbgl,DEPTH TO WATER LEVEL (in mbgl) of unconfindent data Pre-Monsoon January - 2026,January_2026.pdf,359,NULL
+5,NULL,Tamil Nadu,Chennai,Chennai,Purasawalkam,13.08330,80.27080,10-01-2026,1,mbgl,DEPTH TO WATER LEVEL (in mbgl) of unconfindent data Pre-Monsoon January - 2026,January_2026.pdf,359,NULL
+6,NULL,Tamil Nadu,Chennai,Chennai,Saidapet,13.02220,80.22500,10-01-2026,0.78,mbgl,DEPTH TO WATER LEVEL (in mbgl) of unconfindent data Pre-Monsoon January - 2026,January_2026.pdf,359,NULL
+7,NULL,Tamil Nadu,Chennai,Chennai,Seashore Apartment 39,12.97864,80.26584,10-01-2026,3.45,mbgl,DEPTH TO WATER LEVEL (in mbgl) of unconfindent data Pre-Monsoon January - 2026,January_2026.pdf,359,NULL
+8,NULL,Tamil Nadu,Chennai,Chennai,Thiruvanmiyur,12.98750,80.26390,10-01-2026,1.5,mbgl,DEPTH TO WATER LEVEL (in mbgl) of unconfindent data Pre-Monsoon January - 2026,January_2026.pdf,359,NULL
+9,NULL,Tamil Nadu,Chennai,Chennai,Thiruvanmiyur,12.98280,80.26360,10-01-2026,2.77,mbgl,DEPTH TO WATER LEVEL (in mbgl) of unconfindent data Pre-Monsoon January - 2026,January_2026.pdf,359,NULL
+10,NULL,Tamil Nadu,Chennai,Chennai,Triplicane,13.05560,80.28140,10-01-2026,3.42,mbgl,DEPTH TO WATER LEVEL (in mbgl) of unconfindent data Pre-Monsoon January - 2026,January_2026.pdf,359,NULL
+11,NULL,Tamil Nadu,Chennai,Chennai,Urur,13.00140,80.27000,10-01-2026,3.2,mbgl,DEPTH TO WATER LEVEL (in mbgl) of unconfindent data Pre-Monsoon January - 2026,January_2026.pdf,359,NULL
+12,NULL,Tamil Nadu,Chennai,Chennai,Vada Agaram,13.06670,80.22780,10-01-2026,4.74,mbgl,DEPTH TO WATER LEVEL (in mbgl) of unconfindent data Pre-Monsoon January - 2026,January_2026.pdf,359,NULL
+13,NULL,Tamil Nadu,Chennai,Kundrathur,Madanandapuram,13.02250,80.15330,10-01-2026,2.5,mbgl,DEPTH TO WATER LEVEL (in mbgl) of unconfindent data Pre-Monsoon January - 2026,January_2026.pdf,359,NULL
+14,NULL,Tamil Nadu,Chennai,Thomas Malai,Palavanthangal,13.00720,80.19780,10-01-2026,2.32,mbgl,DEPTH TO WATER LEVEL (in mbgl) of unconfindent data Pre-Monsoon January - 2026,January_2026.pdf,359,NULL
+15,NULL,Tamil Nadu,Chennai,Thomas Malai,Palavanthangal,13.00420,80.18750,10-01-2026,1.9,mbgl,DEPTH TO WATER LEVEL (in mbgl) of unconfindent data Pre-Monsoon January - 2026,January_2026.pdf,359,NULL
+16,NULL,Tamil Nadu,Chennai,Thomas Malai,Utthandi,12.86940,80.24720,10-01-2026,2.26,mbgl,DEPTH TO WATER LEVEL (in mbgl) of unconfindent data Pre-Monsoon January - 2026,January_2026.pdf,359,NULL
